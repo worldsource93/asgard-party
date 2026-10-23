@@ -1,0 +1,8 @@
+{
+  "sourcePage": "https://asgard.nexon.com/",
+  "characterGuide": "https://asgard.nexon.com/Info/Character",
+  "copyright": "NEXON Korea Corporation. All Rights Reserved.",
+  "description": "Official job portraits used on the Asgard website. Unmodified 30px representative artwork; not the user's character gender or appearance.",
+  "sourcePattern": "https://lwi.nexon.com/asgard/home/common/jobIcons/{name}_m_30.png",
+  "names": ["warrior", "rogue", "monk", "knight", "asuras", "wizard", "priest", "bard", "prophet", "yacha"]
+}

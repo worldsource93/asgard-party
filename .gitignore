@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite3
+*.sqlite-*
+*.sqlite3-*
+*.sql
+*.db
+*.db-*
+.data/
+.DS_Store
+dist/
+playwright-report/
+test-results/
